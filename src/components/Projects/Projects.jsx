@@ -7,7 +7,7 @@ const PROJECTS = [
     image: "/assets/images/common/portfolio-image.png",
     tags: ["React.js", "Tailwind CSS", "GSAP", "Vite", "Responsive Design"],
     links: [
-      { label: "GitHub", href: "https://github.com/rohillaabhishek", icon: "⌂" },
+      { label: "GitHub", href: "https://github.com/rohillaabhishek/portfolio-abhishek", icon: "⌂" },
     ],
   },
   {
