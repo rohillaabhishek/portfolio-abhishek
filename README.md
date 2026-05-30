@@ -1,16 +1,197 @@
-# React + Vite
+# 🚀 Abhishek Rohilla - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my skills, projects, certifications, experience, and achievements as a Full Stack Developer.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Portfolio Website:**
+https://portfolio-abhishek-rho.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 About The Project
 
-## Expanding the ESLint configuration
+This portfolio serves as a digital representation of my professional journey, technical expertise, and development experience. It highlights my projects, certifications, technical skills, education, and contact information in an elegant and interactive interface.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The website is designed with a modern blue-black aesthetic theme and includes smooth animations, responsive layouts, and engaging user interactions.
+
+---
+
+## ✨ Features
+
+* Modern UI/UX Design
+* Fully Responsive Layout
+* Smooth GSAP Animations
+* Project Showcase Section
+* Certifications Section
+* Tech Stack Display
+* Contact Form Integration
+* GitHub & LinkedIn Links
+* Mobile-Friendly Design
+* Fast Performance with Vite
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3 / SCSS
+
+### Styling & Animation
+
+* GSAP
+* Responsive Design
+* Custom CSS
+
+### Deployment
+
+* Vercel
+
+---
+
+## 📂 Project Structure
+
+```bash
+portfolio-abhishek/
+│
+├── public/
+│   ├── assets
+│   └── favicon
+│
+├── src/
+│   ├── components/
+│   ├── constants/
+│   ├── assets/
+│   ├── styles/
+│   └── App.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have installed:
+
+* Node.js (v18 or above)
+* npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rohillaabhishek/portfolio-abhishek.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd portfolio-abhishek
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```bash
+http://localhost:5173
+```
+
+---
+
+## 📜 Certifications
+
+This portfolio showcases certifications earned in various technologies including:
+
+* Java Development
+* Spring Boot
+* Web Development
+* Full Stack Development
+* Problem Solving & Programming
+
+---
+
+## 💼 Featured Skills
+
+### Languages
+
+* Java
+* JavaScript
+* SQL
+
+### Frontend
+
+* React.js
+* HTML5
+* CSS3
+* Responsive Design
+
+### Backend
+
+* Spring Boot
+* Spring MVC
+* Hibernate
+* REST APIs
+
+### Database
+
+* MySQL
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Vercel
+* Postman
+* Maven
+
+---
+
+## 📫 Contact
+
+### Abhishek Rohilla
+
+* GitHub: https://github.com/rohillaabhishek
+* LinkedIn: https://www.linkedin.com/in/rohillaabhishek
+* Portfolio: https://portfolio-abhishek-rho.vercel.app/
+
+Feel free to connect with me for collaborations, freelance opportunities, internships, or full-time roles.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a star ⭐ on GitHub.
+
+```bash
+⭐ Star this repository
+```
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+### Made with ❤️ by Abhishek Rohilla
