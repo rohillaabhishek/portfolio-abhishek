@@ -40,7 +40,7 @@ The website is designed with a modern blue-black aesthetic theme and includes sm
 * Vite
 * JavaScript (ES6+)
 * HTML5
-* CSS3 / SCSS
+* CSS3 
 
 ### Styling & Animation
 
@@ -116,55 +116,7 @@ Open your browser and visit:
 http://localhost:5173
 ```
 
----
 
-## 📜 Certifications
-
-This portfolio showcases certifications earned in various technologies including:
-
-* Java Development
-* Spring Boot
-* Web Development
-* Full Stack Development
-* Problem Solving & Programming
-
----
-
-## 💼 Featured Skills
-
-### Languages
-
-* Java
-* JavaScript
-* SQL
-
-### Frontend
-
-* React.js
-* HTML5
-* CSS3
-* Responsive Design
-
-### Backend
-
-* Spring Boot
-* Spring MVC
-* Hibernate
-* REST APIs
-
-### Database
-
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Vercel
-* Postman
-* Maven
-
----
 
 ## 📫 Contact
 
