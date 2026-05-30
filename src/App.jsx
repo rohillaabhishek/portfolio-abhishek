@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import gsap from "gsap";
 import { ScrollTrigger, SplitText, ScrollSmoother } from "gsap/all";
+import { Analytics } from "@vercel/analytics/react";
 
 import Cursor from "./ui/cursor/Cursor";
 import Navbar from "./components/NavBar/Navbar";
@@ -44,6 +45,7 @@ const App = () => {
           <Contact />
         </div>
       </div>
+      <Analytics />
     </>
   );
 };
