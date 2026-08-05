@@ -31,8 +31,8 @@ const TIMELINE = [
     desc: "Graduated with 7.0 CGPA. Core coursework: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks. Specialised in Full Stack Web Development with the MERN Stack.",
   },
   {
-    date: "OCT 2025 – APR 2026",
-    title: "Full Stack Web Developer Intern",
+    date: "OCT 2025 – JUN 2026",
+    title: "Full Stack Web Developer",
     org: "FunkVibes",
     desc: "Worked on maintaining and enhancing a fashion e-commerce platform, implementing new features, improving performance, fixing issues, and contributing to a seamless shopping experience across devices.",
   },
