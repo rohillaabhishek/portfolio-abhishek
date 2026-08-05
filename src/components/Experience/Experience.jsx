@@ -28,7 +28,7 @@ const TIMELINE = [
     date: "2021 – 2025",
     title: "B.Tech Computer Science Engineering",
     org: "Manav Rachna International Institute of Research & Studies",
-    desc: "Graduated with 7.0 CGPA. Core coursework: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks. Specialised in Full Stack Web Development with the MERN Stack.",
+    desc: "Graduated with 6.93 CGPA. Core coursework: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks. Specialised in Full Stack Web Development with the MERN Stack.",
   },
   {
     date: "OCT 2025 – JUN 2026",
