@@ -22,7 +22,7 @@ const PROJECTS = [
       "Local Storage",
     ],
     links: [
-    { label: "Dubai Clean Report Builder", href: "https://rohillaabhishek.github.io/testDubaiCleanV7/", icon: "⌂"  }
+    { label: "Dubai Clean Report Builder", href: "https://test-dubai-clean-v7.vercel.app/", icon: "⌂"  }
     ]
   },
 ];
